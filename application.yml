@@ -1,6 +1,6 @@
 spring:
   application:
-    name: MICROSERVICESCONFIGSERVER
+    name: Config_Default
 eureka:
   instance:
     prefer-ip-address: true
